@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My Blog</title>
+    <link>https://yamatokat.github.io/</link>
+    <description>Recent content on My Blog</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 26 Jun 2025 15:47:22 +0900</lastBuildDate>
+    <atom:link href="https://yamatokat.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://yamatokat.github.io/posts/hello-world/</link>
+      <pubDate>Thu, 26 Jun 2025 15:47:22 +0900</pubDate>
+      <guid>https://yamatokat.github.io/posts/hello-world/</guid>
+      <description>&lt;h1 id=&#34;テストのページ&#34;&gt;テストのページ&lt;/h1&gt;
+&lt;h2 id=&#34;見出し&#34;&gt;見出し&lt;/h2&gt;
+&lt;p&gt;本文を書いてみた。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;箇条書き&lt;/li&gt;
+&lt;li&gt;2&lt;/li&gt;
+&lt;li&gt;3
+以上&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
