@@ -1,4 +1,4 @@
-baseURL = "https://yamatokat.github.io/blog2025/"
+baseURL = "/"
 languageCode = "ja"
 title = "My Blog"
 theme = "PaperMod"
