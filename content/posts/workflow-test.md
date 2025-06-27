@@ -41,4 +41,4 @@ jobs:
           publish_branch: gh-pages
 ```
 ## 別のやり方
-- github公式のhugoのworkflowがあるので、それを利用する
+- github公式のhugoのworkflowがあるので、それを利用する。
