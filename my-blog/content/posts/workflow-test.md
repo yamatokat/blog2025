@@ -40,3 +40,5 @@ jobs:
           publish_dir: ./public
           publish_branch: gh-pages
 ```
+## 別のやり方
+- github公式のhugoのworkflowがあるので、それを利用する
