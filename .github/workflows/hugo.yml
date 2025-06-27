@@ -42,7 +42,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with: 
-          path: blog2025
           submodules: recursive
       - name: Setup Pages
         id: pages
@@ -50,7 +49,6 @@ jobs:
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Build with Hugo
-        working-directory: blog2025
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
