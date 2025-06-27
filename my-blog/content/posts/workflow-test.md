@@ -9,7 +9,7 @@ title = 'Workflow Test'
 ## やりたいこと
 - mainブランチにpushすると自動的にデプロイされるようにしたい 
 ## やり方
-- 以下のyamlファイルをリポジトリのrootに置く
+- 以下のyamlファイルを.github/workflowにおく
 ```yaml
 name: Deploy Hugo site to GitHub Pages
 
